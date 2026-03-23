@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br>I am a Computer Science Undergraduate specializing in the Internet of Things (IoT). I’m a final-year student passionate about bridging the gap between hardware and the web through Full Stack Development. Currently, I'm deep-diving into React.js to build modern, responsive interfaces for automated systems.<br>
+<br>I am a Computer Science Undergraduate specializing in the Internet of Things, passionate about bridging the gap between hardware and the web through Full Stack Development. Currently, I'm deep-diving into React.js to build modern, responsive interfaces for automated systems.<br>I’m looking to collaborate on IoT tools, automation scripts, and full-stack projects.<br> FUN FACT- I CAN CODE/- <br>
 
 
 ## 🌐 Socials:
